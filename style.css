@@ -1,0 +1,42 @@
+title{
+    width: 25%;
+}
+
+div {
+    border: solid 2px black;
+    margin: 10px;
+    text-align: center;
+    width: 25%;
+}
+
+body {
+    display: flex;
+    align-content: space-around;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#mondayImage {
+    width: 150px;
+    height: 150px;
+}
+
+#tuesdayImage {
+    width: 150px;
+    height: 150px;
+}
+
+#wednesdayImage {
+    width: 150px;
+    height: 150px;
+}
+
+#thursdayImage {
+    width: 150px;
+    height: 150px;
+}
+
+#fridayImage {
+    width: 150px;
+    height: 150px;
+}
