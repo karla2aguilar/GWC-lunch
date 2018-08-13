@@ -1,12 +1,14 @@
 title{
-    width: 25%;
+    width: 20%;
 }
 
 div {
     border: solid 2px black;
     margin: 10px;
     text-align: center;
-    width: 25%;
+    width: 30%;
+    height: 50%;
+    padding: 10px;
 }
 
 body {
@@ -17,26 +19,26 @@ body {
 }
 
 #mondayImage {
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 40%;
 }
 
 #tuesdayImage {
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 40%;
 }
 
 #wednesdayImage {
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 40%;
 }
 
 #thursdayImage {
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 40%;
 }
 
 #fridayImage {
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 40%;
 }
